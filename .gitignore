@@ -1,0 +1,10 @@
+# Visual Studio temporary files
+.vs/
+Debug/
+Release/
+x64/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
